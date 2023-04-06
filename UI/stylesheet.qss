@@ -1,0 +1,34 @@
+*{
+    font-family: "Calibri";
+    font-size: 12pt;
+    background-color: rgba(215, 195, 199);
+    color: rgba(118, 50, 63);
+}
+
+.QGroupBox, #groupBox1 QLabel{
+    border-radius: 6px;
+    background-color: rgba(215, 195, 199);
+}
+
+QLineEdit{
+    background-color: rgba(215, 195, 199);
+}
+
+#groupBox2 *{
+    background-color: rgba(215, 195, 199);
+}
+
+QPushButton{
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: rgba(118, 50, 63);
+    color: rgba(215, 195, 199);
+}
+
+QPushButton:hover{
+    background-color: rgba(190, 152, 178);
+    color: rgba(118, 50, 63);
+}
+
+
+
